@@ -29,7 +29,7 @@
 		"test": "xo && ava"
 	},
 	"engines": {
-		"node": ">=v14.16.1"
+		"node": ">=v14.19.3"
 	},
 	"private": false,
 	"repository": {
